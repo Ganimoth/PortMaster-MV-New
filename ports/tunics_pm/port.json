@@ -1,0 +1,39 @@
+{
+  "version": 4,
+  "name": "tunics_pm.zip",
+  "items": [
+    "Tunics!.sh",
+    "tunics_pm"
+  ],
+  "items_opt": [],
+  "attr": {
+    "title": "Tunics!",
+    "porter": [
+      "Cebion"
+    ],
+    "desc": "A roguelike Zelda-style action RPG built with the Solarus engine, where players fight through randomly generated, increasingly difficult dungeons using classic Zelda-inspired items and skills. It features permadeath",
+    "desc_md": null,
+    "inst": "Get the .solarus file for this port by downloading Tunics! fromhttps://solarus-games.org/games/tunics/, then move it into ports/tunics_pm folder.",
+    "inst_md": null,
+    "genres": [
+      "action"
+    ],
+    "image": null,
+    "rtr": false,
+    "exp": false,
+    "runtime": [
+      "solarus-1.6.5.squashfs"
+    ],
+    "store": [
+      {
+        "name": "Solarus Site",
+        "gameurl": "https://solarus-games.org/games/tunics/",
+        "developerurl": "https://legofarmen.se/"
+      }
+    ],
+    "availability": "free",
+    "reqs": [],
+    "arch": [],
+    "min_glibc": ""
+  }
+}
