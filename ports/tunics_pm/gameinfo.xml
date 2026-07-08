@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gameList>
+  <game>
+    <path>./Tunics!.sh</path>
+    <name>Tunics!</name>
+    <desc>A roguelike Zelda-style action RPG built with the Solarus engine, where players fight through randomly generated, increasingly difficult dungeons using classic Zelda-inspired items and skills.</desc>
+    <releasedate>20150909T000000</releasedate>
+    <developer>Sandstrand</developer>
+    <publisher>Self-Publsihed</publisher>
+    <genre>Action</genre>
+    <image>./tunics_pm/screenshot.png</image>
+  </game>
+</gameList>
