@@ -1,0 +1,7 @@
+Place your own legally-dumped Twilight Princess disc image in this folder.
+
+Supported: GameCube (.iso) or Wii, and Dolphin/nodtool-compressed (.rvz) versions
+of either. See the port's README.md for dumping instructions.
+
+Dusklight does not include, and will never include, any copyrighted game
+assets. You must dump your own copy from a disc you own.

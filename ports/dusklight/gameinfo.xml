@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gameList>
+  <game>
+    <path>./Dusklight.sh</path>
+    <name>Dusklight (The Legend of Zelda: Twilight Princess)</name>
+    <desc>A reverse-engineered, native reimplementation of The Legend of Zelda: Twilight Princess, built on the zeldaret decompilation and rendered through Aurora on WebGPU/OpenGLES. Requires your own legally-dumped disc image.</desc>
+    <releasedate>20061119T000000</releasedate>
+    <developer>Nintendo EAD</developer>
+    <publisher>Nintendo</publisher>
+    <genre>Action-Adventure</genre>
+    <players>1</players>
+    <image>./dusklight/cover.png</image>
+  </game>
+</gameList>
