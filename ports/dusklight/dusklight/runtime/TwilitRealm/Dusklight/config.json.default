@@ -1,0 +1,20 @@
+{
+    "backend.checkForUpdates": false,
+    "backend.graphicsBackend": "opengles",
+    "backend.isoVerification": 0,
+    "backend.skipPreLaunchUI": true,
+    "backend.wasPresetChosen": true,
+    "game.bloomMode": 0,
+    "game.depthOfFieldMode": 0,
+    "game.enableAchievementToasts": false,
+    "game.enableControllerToasts": false,
+    "game.enableDiscordPresence": false,
+    "game.enableFrameInterpolation": 0,
+    "game.enableMapBackground": false,
+    "game.hideTvSettingsScreen": true,
+    "game.internalResolutionScale": 0.5,
+    "game.showPipelineProgress": false,
+    "video.decoupleSimFromRender": true,
+    "video.enableFullscreen": true,
+    "video.lockAspectRatio": true
+}
